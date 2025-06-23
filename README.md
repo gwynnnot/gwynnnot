@@ -40,15 +40,14 @@
   <img title="Firebase" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
 
+<!--
 ---
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
 
-<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gwynnnot&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
--->
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gwynnnot&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub&nbsp;Stats" alt="GitHub Stats" width="400" />
